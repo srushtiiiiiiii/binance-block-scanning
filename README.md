@@ -1,1 +1,1 @@
-# binace-block-scanning
+# binance-block-scanning
